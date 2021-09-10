@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubrica.RepositoryMock", "R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubrica.RepositoryEF", "Rubrica.RepositoryEF\Rubrica.RepositoryEF.csproj", "{368F4139-FDCB-4721-A67C-2EE09790CD57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rubrica.Test", "Rubrica.Test\Rubrica.Test.csproj", "{6C363CB6-D604-4DF7-9B2A-331B00B003D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{368F4139-FDCB-4721-A67C-2EE09790CD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{368F4139-FDCB-4721-A67C-2EE09790CD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{368F4139-FDCB-4721-A67C-2EE09790CD57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C363CB6-D604-4DF7-9B2A-331B00B003D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C363CB6-D604-4DF7-9B2A-331B00B003D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C363CB6-D604-4DF7-9B2A-331B00B003D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C363CB6-D604-4DF7-9B2A-331B00B003D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
